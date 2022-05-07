@@ -1,0 +1,23 @@
+{
+  "name": "batch-file-creator",
+  "version": "1.0.0",
+  "description": "This is the idea to create batch file for daily running cmds for a company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GobikrishnanT/Batch-file-creator.git"
+  },
+  "keywords": [
+    "Batch",
+    "creator"
+  ],
+  "author": "Gobikrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GobikrishnanT/Batch-file-creator/issues"
+  },
+  "homepage": "https://github.com/GobikrishnanT/Batch-file-creator#readme"
+}
